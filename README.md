@@ -50,6 +50,6 @@ Este repositório é disponibilizado sob a licença MIT, permitindo seu uso, mod
 
 Contato
 
-Para dúvidas, sugestões ou colaborações, entre em contato através do GitHub ou envie um e-mail para [seu_email@exemplo.com].
+Para dúvidas, sugestões ou colaborações, entre em contato através do GitHub ou envie um e-mail para [felipe.goncalves@fgv.br].
 
 Aproveite os materiais disponíveis e contribua para o desenvolvimento de análises e modelos energéticos mais robustos e acessíveis!
